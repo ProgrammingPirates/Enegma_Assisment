@@ -1,0 +1,14 @@
+html, body, #root, .App {
+  height: 100%;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.table {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+input::placeholder {
+  color: #a0aec0;
+}
